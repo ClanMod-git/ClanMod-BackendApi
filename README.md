@@ -1,4 +1,4 @@
-![PenguinMod Logo](icon.png "PenguinMod Logo")
+![Logo](icon.png "Logo")
 
 ![Stargazers](https://img.shields.io/github/stars/PenguinMod/PenguinMod-BackendApi?style=flat-square "Stars")
 
